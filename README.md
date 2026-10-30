@@ -6,6 +6,7 @@ Personal skills in the open Agent Skills format: one folder per skill, each with
 |---|---|
 | `monthly-summary` | Turns a month of worklogs into a short list for my manager, ready to paste into Telegram |
 | `disk-cleanup` | Finds and frees disk space on a Windows + WSL2 laptop |
+| `feature-overview` | Builds a reading guide with embedded mockups for a new section, from its tickets, spec and Figma, plus the open points |
 
 ## Install on a new machine
 
